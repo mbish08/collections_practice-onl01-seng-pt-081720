@@ -26,4 +26,4 @@ end
 end 
 
 def find_a(array)
-  array.
+  array.starts_with?
